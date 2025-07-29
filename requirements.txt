@@ -1,0 +1,6 @@
+requests
+opencv-python
+pillow
+python-barcode
+code128
+pywin32

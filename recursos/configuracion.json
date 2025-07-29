@@ -1,0 +1,20 @@
+{
+    "producto": {
+        "tamanio": 1,
+        "grosor": 2,
+        "x": 115,
+        "y": 107
+    },
+    "precio": {
+        "tamanio": 2,
+        "grosor": 3,
+        "x": 61,
+        "y": 376
+    },
+    "codigo": {
+        "tamanio": 1,
+        "grosor": 2,
+        "x": 150,
+        "y": 184
+    }
+}

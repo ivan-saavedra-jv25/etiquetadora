@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan",
+    "edad": 30,
+    "ciudad": "Otro ??lugar",
+    "ciudad_2": "Otro ??lugar",
+    "producto": {
+        "grosor": 30
+    }
+}
