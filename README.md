@@ -1,7 +1,7 @@
 
-# 🏷️ Etiquetadora - OneCode
+# 🏷️ Etiquetadora
 
-**OneCode** es una aplicación de escritorio desarrollada en Python que permite generar etiquetas con código de barras para productos obtenidos desde una API. Cuenta con una interfaz gráfica amigable (Tkinter), opciones de personalización del diseño y capacidad de impresión directa.
+**Etiquetadora** es una aplicación de escritorio desarrollada en Python que permite generar etiquetas con código de barras para productos obtenidos desde una API. Cuenta con una interfaz gráfica amigable (Tkinter), opciones de personalización del diseño y capacidad de impresión directa.
 
 ---
 
